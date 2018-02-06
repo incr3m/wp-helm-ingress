@@ -1,0 +1,4 @@
+dependencies:
+  - name: wordpress
+    repository: "alias:stable"
+    version: "*"
